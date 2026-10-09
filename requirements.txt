@@ -1,2 +1,6 @@
 streamlit>=1.33,<2.0
 ollama>=0.2.0,<1.0
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
